@@ -1,1 +1,20 @@
-/* Start coding here */
+* {
+  margin: 0px;
+  padding: 0px;
+}
+.crimson {
+  background-color: khaki;
+  border: 24px solid crimson;
+  font-size: 72px;
+  height: 100vh;
+  text-align: center;
+}
+.black {
+  border: 16px solid black;
+}
+.lightgrey {
+  border: 16px solid lightgray;
+}
+p {
+  padding: 20px;
+}
