@@ -1,1 +1,25 @@
 /* Start coding here */
+
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+.container {
+  background-color: khaki;
+  height: 100vh;
+  border: 24px solid crimson;
+  text-align: center;
+  font-size: 72px;
+}
+.border-1 {
+  border: 16px solid black;
+}
+.border-2 {
+  border: 16px solid lightgrey;
+}
+
+p {
+  padding: 30px;
+}

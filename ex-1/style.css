@@ -1,1 +1,33 @@
 /* Start coding here */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-family: sans-serif;
+}
+
+.container {
+  margin: 20px;
+}
+
+.blog-head {
+  background-color: #dbeafe;
+  color: #075985;
+  padding: 30px;
+}
+
+.blog {
+  width: 500px;
+  background-color: #cffafe;
+  border: 2px solid #000;
+}
+
+.blog-1,
+.blog-2 {
+  margin-top: 20px;
+  margin-left: 20px;
+  padding: 20px;
+}
