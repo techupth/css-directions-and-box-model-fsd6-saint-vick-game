@@ -1,1 +1,13 @@
-/* Start coding here */
+.header {
+  background-color: pink;
+  padding: 20px;
+}
+
+.topic {
+  background-color: lightgray;
+  width: 50%;
+  outline: 2px solid black;
+  padding: 3px;
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
